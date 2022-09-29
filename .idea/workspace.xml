@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d3a33ca-eb50-4953-b084-59453ecfc899" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CtVqx3SJyNy83R5GxopZ66PZv1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/FuturoDev/Modulo2Semana1/src/QuartoExercicio&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\FuturoDev\Modulo2Semana1\src\QuartoExercicio" />
+      <recent name="D:\FuturoDev\Modulo2Semana1\src\TerceiroExercicio" />
+      <recent name="D:\FuturoDev\Modulo2Semana1\src\SegundoExercicio" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.QuartoExercicio.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimeiroExercicio.Main" />
+      <module name="Modulo2Semana1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PrimeiroExercicio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuartoExercicio.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuartoExercicio.Main" />
+      <module name="Modulo2Semana1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="QuartoExercicio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SegundoExercicio.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SegundoExercicio.Main" />
+      <module name="Modulo2Semana1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SegundoExercicio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TerceiroExercicio.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TerceiroExercicio.Main" />
+      <module name="Modulo2Semana1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TerceiroExercicio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.QuartoExercicio.Main" />
+        <item itemvalue="Application.TerceiroExercicio.Main" />
+        <item itemvalue="Application.SegundoExercicio.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d3a33ca-eb50-4953-b084-59453ecfc899" name="Changes" comment="" />
+      <created>1659622102948</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659622102948</updated>
+      <workItem from="1659622125567" duration="4449000" />
+      <workItem from="1659705626033" duration="9267000" />
+      <workItem from="1659791532154" duration="1799000" />
+      <workItem from="1659968010050" duration="2679000" />
+      <workItem from="1660050772728" duration="12457000" />
+      <workItem from="1660230826399" duration="3016000" />
+      <workItem from="1660253196238" duration="2651000" />
+      <workItem from="1660260389161" duration="1791000" />
+      <workItem from="1660313121834" duration="4661000" />
+      <workItem from="1660327249012" duration="6000" />
+      <workItem from="1660342162159" duration="41000" />
+      <workItem from="1660605744149" duration="29000" />
+      <workItem from="1662641263419" duration="657000" />
+      <workItem from="1662672427246" duration="16000" />
+      <workItem from="1664492433405" duration="108000" />
+      <workItem from="1664492783785" duration="218000" />
+      <workItem from="1664493024042" duration="188000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
