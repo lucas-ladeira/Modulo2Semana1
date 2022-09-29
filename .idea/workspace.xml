@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d3a33ca-eb50-4953-b084-59453ecfc899" name="Changes" comment="" />
+    <list default="true" id="7d3a33ca-eb50-4953-b084-59453ecfc899" name="Changes" comment="Adicionando Exercícios Módulo2-Semana1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,7 +132,16 @@
       <workItem from="1664492433405" duration="108000" />
       <workItem from="1664492783785" duration="218000" />
       <workItem from="1664493024042" duration="188000" />
+      <workItem from="1664493275500" duration="326000" />
     </task>
+    <task id="LOCAL-00001" summary="Adicionando Exercícios Módulo2-Semana1">
+      <created>1664493542955</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664493542955</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,5 +172,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Adicionando Exercícios Módulo2-Semana1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionando Exercícios Módulo2-Semana1" />
   </component>
 </project>
